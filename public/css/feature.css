@@ -1,0 +1,23 @@
+.bg-image {
+ background-size: cover !important;
+ background-repeat: no-repeat !important;
+ background-position: center !important;
+ 
+}
+
+
+.card-text-wrapper:hover {
+  -webkit-backdrop-filter: blur(5px);
+  backdrop-filter: blur(5px);
+}
+
+/* .card-text-wrapper:hover>.fw-bold{
+    
+  opacity: 100%;
+  transition:ease-in .5s ease;
+  height:100%;
+  width: 100%;
+  /* top: 0;
+  left: 0;  */
+  /* font-size: larger;
+} */
